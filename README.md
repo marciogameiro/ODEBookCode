@@ -1,2 +1,2 @@
 # ODEBookCode
-Jupyter Notebooks with Julia code for EDO Book
+This repository providesJupyter Notebooks with Julia code for EDO Book.
